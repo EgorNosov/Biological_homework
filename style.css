@@ -1,34 +1,56 @@
 .el1{
 background-image: url(images/ekologicke-zemedelstvi-800x445-1.jpg);
-width: 1920px;
-height: 1080px;
+width: 100%;
+height: 100vh;
 background-size:cover;
+
 }
 .el2{
     background-image: url(images/R.jfif);
-    width: 1920px;
-    height: 1080px;
+    width: 100%;
+    height: 100vh;
     background-size:cover;
 }
 .el3{
-    background-image: url(images/R.jfif);
-    width: 1920px;
-    height: 1080px;
+    background-image: url(images/bragazeta-ru-truba8798790_5ea974544fbac.jpg);
+    width: 100%;
+    height: 100vh;
     background-size:cover;
+    
 }
 .el4{
-
+    background-image: url(images/R\ \(1\).jfif);
+    width: 100%;
+    height: 100vh;
+    background-size:cover;
+    padding-top: 100px
 }
 .el5{
-
+    background-image: url(images/R\ \(2\).jfif);
+    width: 100%;
+    height: 100vh;
+    background-size:cover;
 }
 .el6{
-
+    background-image: url(images/OIP.jfif);
+    width: 100%;
+    height: 100vh;
+    background-size:cover;
+    
 }
 div{
     text-align: center;
+
 }
 pre{
     color: rgb(255, 255, 255);
     font-size: 40px;
+}
+.end_pre{
+    color: rgb(12, 11, 11);
+    font-size: 40px;
+}
+
+label{
+    font-size: 50px;
 }
