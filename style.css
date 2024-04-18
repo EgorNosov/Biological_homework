@@ -1,19 +1,20 @@
 .el1{
 background-image: url(images/ekologicke-zemedelstvi-800x445-1.jpg);
-width: 2050px;
-height: 1100px;
+width: 1920px;
+height: 1080px;
 background-size:cover;
-color: rgb(255, 255, 255);
-font-size: 40px;
 }
 .el2{
-    background-image: url(images/);
-    width: 2050px;
-    height: 1100px;
+    background-image: url(images/R.jfif);
+    width: 1920px;
+    height: 1080px;
     background-size:cover;
 }
 .el3{
-
+    background-image: url(images/R.jfif);
+    width: 1920px;
+    height: 1080px;
+    background-size:cover;
 }
 .el4{
 
@@ -26,4 +27,8 @@ font-size: 40px;
 }
 div{
     text-align: center;
+}
+pre{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
 }
